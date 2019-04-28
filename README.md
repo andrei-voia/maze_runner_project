@@ -1,4 +1,4 @@
-# Maze Runner Project
+# Maze Runner Project, where hardware meets software
 
 This is a simple program created for use on an Arduino.
 * You will also neeed 4 buttons, connected to the Arduino, for directional movement of the player,
