@@ -1,7 +1,7 @@
 # Maze Runner Project
-## -where hardware meets software-
 
 This is a simple program created for use on an Arduino.
+* Where hardware meets software,
 * You will also neeed 4 buttons, connected to the Arduino, for directional movement of the player,
 * You also need a 8x8 LED matrix that will show you the maze that you are moving in.
 
